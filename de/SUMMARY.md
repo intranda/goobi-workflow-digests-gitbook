@@ -1,8 +1,5 @@
 # Table of contents
 
-
-## 
-
 * [Goobi workflow Digests](README.md)
 
 ## 2024
