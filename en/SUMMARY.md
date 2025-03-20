@@ -2,6 +2,10 @@
 
 * [Goobi workflow Digests](README.md)
 
+## 2025
+
+* [February](2025/02/02.md)
+
 ## 2024
 
 * [April](2024/04/04.md)
