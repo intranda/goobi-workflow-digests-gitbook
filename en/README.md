@@ -11,10 +11,10 @@ In the table of contents on the left you will find a list of the respective mont
 
 {% content-ref url="2025/02/02.md" %}[02.md](2025/02/02.md){% endcontent-ref %}
 
+{% content-ref url="2025/01/01.md" %}[01.md](2025/01/01.md){% endcontent-ref %}
+
 {% content-ref url="2024/04/04.md" %}[04.md](2024/04/04.md){% endcontent-ref %}
 
 {% content-ref url="2024/03/03.md" %}[03.md](2024/03/03.md){% endcontent-ref %}
 
 {% content-ref url="2024/02/02.md" %}[02.md](2024/02/02.md){% endcontent-ref %}
-
-{% content-ref url="2024/01/01.md" %}[01.md](2024/01/01.md){% endcontent-ref %}
