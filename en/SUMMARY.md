@@ -13,6 +13,7 @@
 * [November](2024/11/11.md)
 * [October](2024/10/10.md)
 * [September](2024/09/09.md)
+* [August](2024/08/08.md)
 * [April](2024/04/04.md)
 * [March](2024/03/03.md)
 * [February](2024/02/02.md)
