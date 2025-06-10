@@ -9,6 +9,8 @@ At this point we provide a detailed insight into our current developments. We tr
 
 In the table of contents on the left you will find a list of the respective months for which such a compilation already exists. And here you find a direct link to the latest digests:
 
+{% content-ref url="2025/05/05.md" %}[05.md](2025/05/05.md){% endcontent-ref %}
+
 {% content-ref url="2025/04/04.md" %}[04.md](2025/04/04.md){% endcontent-ref %}
 
 {% content-ref url="2025/03/03.md" %}[03.md](2025/03/03.md){% endcontent-ref %}
@@ -16,5 +18,3 @@ In the table of contents on the left you will find a list of the respective mont
 {% content-ref url="2025/02/02.md" %}[02.md](2025/02/02.md){% endcontent-ref %}
 
 {% content-ref url="2025/01/01.md" %}[01.md](2025/01/01.md){% endcontent-ref %}
-
-{% content-ref url="2024/12/12.md" %}[12.md](2024/12/12.md){% endcontent-ref %}
